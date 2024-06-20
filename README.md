@@ -1,7 +1,7 @@
 ## Oi, Sou o Thomas Henrique Maizonave!
 
   🔭 Hoje busco oportunidades no Front-End
-- 🌱 Estou aprendendo TypeScript e Node.JS, sei JavaScript, HTML e CSS
+- 🌱 Estou me especializando em JavaScript, Node.JS, HTML, CSS
 - 📫 Me contate no email: thomasmaizonave1@gmail.com ou no WhatsApp: +55 (48) 9 9855-6066
 - 😄 Pronome: ele/dele
 
